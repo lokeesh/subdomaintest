@@ -1,3 +1,2 @@
 # subdomaintest.
-</textarea>
-<a href=xx onerror=alert(1)>
+</textarea <a href=xx onerror=alert(1)>>
