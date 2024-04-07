@@ -1,2 +1,2 @@
 # subdomaintest.
-<a innerhtml=<script>alert(2)</script></script>ClickMe </a>
+<p innerhtml=<script>alert(2)</script></script>ClickMe </p>
