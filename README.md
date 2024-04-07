@@ -1,2 +1,2 @@
 # htmlinjection
- <button><a href=javascript:alert(1)>clickme</button>
+ <button><a href=evil.com>clickme</button>
