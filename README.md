@@ -1,2 +1,2 @@
 # subdomaintest.
-</p><p innerhtml=<script>alert(2)</script></script>ClickMe 
+<p href=https://fdfb-117-199-162-219.ngrok-free.app>clickme</p>
